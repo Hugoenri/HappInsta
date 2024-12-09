@@ -49,10 +49,13 @@ Tecnologías y Herramientas
 Lenguaje: Python.
 
 Bibliotecas:
-    Análisis de datos: Pandas, NumPy, sklearn.
-    Visualización: Matplotlib, Seaborn, Plotly.
-    Datos: Archivos CSV descargados desde Kaggle.
-    Entorno de trabajo: Jupyter Notebooks.
+  Análisis de datos: Pandas, NumPy, sklearn.
+    
+  Visualización: Matplotlib, Seaborn, Plotly.
+    
+  Datos: Archivos CSV descargados desde Kaggle.
+   
+  Entorno de trabajo: Jupyter Notebooks.
 
 
 
