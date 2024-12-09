@@ -1,5 +1,6 @@
 
-HappInsta: Análisis de Usuarios de Instagram, Felicidad y Libertad de Decisión
+#HappInsta: Análisis de Usuarios de Instagram, Felicidad y Libertad de Decisión
+
 Descripción del Proyecto
 HappInsta es un proyecto de análisis de datos que explora cómo el uso de Instagram está relacionado con la felicidad y la libertad para tomar decisiones a nivel nacional. El estudio se centra inicialmente en tres países: Francia, España e Italia, y luego amplía el análisis a nivel global.
 
