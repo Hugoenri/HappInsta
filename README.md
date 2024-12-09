@@ -2,6 +2,7 @@
 #HappInsta: Análisis de Usuarios de Instagram, Felicidad y Libertad de Decisión
 
 Descripción del Proyecto
+
   HappInsta es un proyecto de análisis de datos que explora cómo el uso de Instagram está relacionado con la felicidad y la libertad para tomar decisiones a nivel nacional. El estudio se centra inicialmente en 
   tres países: Francia, España e Italia, y luego amplía el análisis a nivel global.
   
@@ -19,6 +20,7 @@ Metodología
 Obtención de Datos
 
 Descarga de dos archivos CSV desde Kaggle: uno con información sobre usuarios de Instagram por país y otro con indicadores globales de felicidad y libertad.
+
 Procesamiento de Datos
 
   Limpieza de datos: eliminación de valores nulos, duplicados y datos irrelevantes.
@@ -41,6 +43,7 @@ Procesamiento de Datos
   Creación de gráficos y mapas para representar las relaciones identificadas.
 
 Resultados Esperados
+
   Identificar si existe una correlación significativa entre la cantidad de usuarios de Instagram y los índices de felicidad en los países analizados.
   Visualizar las diferencias entre los países seleccionados (Francia, España e Italia) en términos de uso de Instagram y bienestar.
   Explorar la relación entre la libertad para tomar decisiones y el uso de Instagram a nivel global.
@@ -50,6 +53,7 @@ Tecnologías y Herramientas
 Lenguaje: Python.
 
 Bibliotecas:
+
   Análisis de datos: Pandas, NumPy, sklearn.
     
   Visualización: Matplotlib, Seaborn, Plotly.
