@@ -9,6 +9,7 @@ Descripción del Proyecto
   obtuvieron de Kaggle en formato CSV y pasaron por un proceso de limpieza y análisis exploratorio (EDA) antes de realizar correlaciones y visualizaciones detalladas.
 
 Objetivos
+
   Estudiar los usuarios de Instagram por país: Analizar la distribución y densidad de usuarios de Instagram en Francia, España e Italia.
   Examinar la felicidad en función del país: Evaluar si existe una relación entre la densidad de usuarios de Instagram y los índices de felicidad nacional.
   Explorar la libertad de decisión global: Identificar cómo los usuarios de Instagram y su distribución están relacionados con la percepción de libertad para tomar decisiones a nivel mundial.
