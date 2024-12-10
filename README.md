@@ -64,7 +64,7 @@ Bibliotecas:
 
 
 
-├── data/
+├── DATA/
 
 │   ├── instagram-users-by-country-2024/                # Archivos CSV original descargado de Kaggle.
 
@@ -76,8 +76,10 @@ Bibliotecas:
 
 │   ├── Final_tableau_limpio.csv/    # Datos procesados para elaborar presentación
 
+│   ├── SQL_Insta_final.sql/ # Base de datos con consultas
 
-├── notebooks/
+
+├── NOTEBOOKS/
 
 │   ├── FINAL2          # Análisis exploratorio inicial.
 
