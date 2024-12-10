@@ -70,7 +70,12 @@ Bibliotecas:
 
 │   ├── World-happiness-report-2024/                # Archivos CSV original descargado de Kaggle.
 
-│   ├── Insta_limpio/          # Datos procesados para análisis.
+│   ├── Insta_limpio.csv/          # Datos procesados para análisis.
+
+│   ├── Final_unido.csv/  # Datos procesados tras unir los dos CSV
+
+│   ├── Final_tableau_limpio.csv/    # Datos procesados para elaborar presentación
+
 
 ├── notebooks/
 
