@@ -78,7 +78,7 @@ Bibliotecas:
 
 │   ├── SQL_Insta_final.sql/ # Base de datos con consultas
 
-│   ├── SQL_Insta_final.sql/ # Datos para presentación final con población y porcentaje
+│   ├── dff.csv/ # Datos para presentación final con población y porcentaje
 
 
 ├── NOTEBOOKS/
@@ -87,7 +87,7 @@ Bibliotecas:
 
 │   ├── FINAL3          # Análisis comparativo para Francia, España e Italia y Análisis a nivel global.
 
-│   ├── FINAL3          # Análisis comparativo añadiendo la población y el porcentaje que representan los usuarios de esa población
+│   ├── FINAL4         # Análisis comparativo añadiendo la población y el porcentaje que representan los usuarios de esa población
 
 ├── Presentacion        # Presentación en Tableau sobre el proyecto.
 
