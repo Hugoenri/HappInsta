@@ -66,30 +66,30 @@ Bibliotecas:
 
 ├── DATA/
 
-│   ├── instagram-users-by-country-2024/                # Archivos CSV original descargado de Kaggle.
+│   ├─ ─ instagram-users-by-country-2024/                # Archivos CSV original descargado de Kaggle.
 
-│   ├── World-happiness-report-2024/                # Archivos CSV original descargado de Kaggle.
+│   ├─ ─ World-happiness-report-2024/                # Archivos CSV original descargado de Kaggle.
 
-│   ├── Insta_limpio.csv/          # Datos procesados para análisis.
+│   ├─ ─ Insta_limpio.csv/          # Datos procesados para análisis.
 
-│   ├── Final_unido.csv/  # Datos procesados tras unir los dos CSV
+│   ├─ ─ Final_unido.csv/  # Datos procesados tras unir los dos CSV
 
-│   ├── Final_tableau_limpio.csv/    # Datos procesados para elaborar presentación
+│   ├─ ─ Final_tableau_limpio.csv/    # Datos procesados para elaborar presentación
 
-│   ├── SQL_Insta_final.sql/ # Base de datos con consultas
+│   ├─ ─ SQL_Insta_final.sql/ # Base de datos con consultas
 
-│   ├── dff.csv/ # Datos para presentación final con población y porcentaje
+│   ├─ ─ dff.csv/ # Datos para presentación final con población y porcentaje
 
 
-├── NOTEBOOKS/
+├─ ─ NOTEBOOKS/
 
-│   ├── FINAL2          # Análisis exploratorio inicial.
+│   ├─ ─ FINAL2          # Análisis exploratorio inicial.
 
-│   ├── FINAL3          # Análisis comparativo para Francia, España e Italia y Análisis a nivel global.
+│   ├─ ─ FINAL3          # Análisis comparativo para Francia, España e Italia y Análisis a nivel global.
 
-│   ├── FINAL4         # Análisis comparativo añadiendo la población y el porcentaje que representan los usuarios de esa población
+│   ├─ ─ FINAL4         # Análisis comparativo añadiendo la población y el porcentaje que representan los usuarios de esa población
 
-├── Presentacion        # Presentación en Tableau sobre el proyecto.
+├─ ─ Presentacion        # Presentación en Tableau sobre el proyecto.
 
-├── README.md           # Documento de presentación del proyecto.
+├─ ─ README.md           # Documento de presentación del proyecto.
 
