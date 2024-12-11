@@ -3,7 +3,7 @@
 
 Descripción del Proyecto
 
-  HappInsta es un proyecto de análisis de datos que explora cómo el uso de Instagram está relacionado con la felicidad y la libertad para tomar decisiones a nivel nacional. 
+  HappInsta es un proyecto de análisis de datos que explora cómo el uso como el aumento de usuarios de Instagram está relacionado con la felicidad y la libertad para tomar decisiones según el país en el que residen. 
   
   El proyecto se desarrolla utilizando Python e integra datos de múltiples fuentes, como el número de usuarios de Instagram por país, índices de felicidad, y medidas de libertad de decisión. Los datos se 
   obtuvieron de Kaggle en formato CSV y pasaron por un proceso de limpieza y análisis exploratorio (EDA) antes de realizar correlaciones y visualizaciones detalladas.
