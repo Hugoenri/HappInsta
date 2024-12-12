@@ -1,24 +1,24 @@
 
-#HappInsta: Análisis de Usuarios de Instagram, Felicidad y Libertad de Decisión
+#HappInsta: Análisis de Usuarios de Instagram y Libertad de tomar Decisión
 
 Descripción del Proyecto
 
-  HappInsta es un proyecto de análisis de datos que explora cómo el uso como el aumento de usuarios de Instagram está relacionado con la felicidad y la libertad para tomar decisiones según el país en el que residen. 
+  HappInsta es un proyecto de análisis de datos que explora cómo el uso como el aumento de usuarios de Instagram está relacionado con la libertad para tomar decisiones según el país en el que residen. 
   
-  El proyecto se desarrolla utilizando Python e integra datos de múltiples fuentes, como el número de usuarios de Instagram por país, índices de felicidad, y medidas de libertad de decisión. Los datos se 
+  El proyecto se desarrolla utilizando Python e integra datos de múltiples fuentes, como el número de usuarios de Instagram por país y medidas de libertad de decisión. Los datos se 
   obtuvieron de Kaggle en formato CSV y pasaron por un proceso de limpieza y análisis exploratorio (EDA) antes de realizar correlaciones y visualizaciones detalladas.
 
 Objetivos
 
   Estudiar los usuarios de Instagram por país: Analizar la distribución y densidad de usuarios de Instagram en Francia, España e Italia.
-  Examinar la felicidad en función del país: Evaluar si existe una relación entre la densidad de usuarios de Instagram y los índices de felicidad nacional.
+  Examinar la rrelación en función del país: Evaluar si existe una relación entre la densidad de usuarios de Instagram y la libertad para tomar decisiones nacional.
   Explorar la libertad de decisión global: Identificar cómo los usuarios de Instagram y su distribución están relacionados con la percepción de libertad para tomar decisiones a nivel mundial.
 
 Metodología
 
 Obtención de Datos
 
-Descarga de dos archivos CSV desde Kaggle: uno con información sobre usuarios de Instagram por país y otro con indicadores globales de felicidad y libertad.
+Descarga de dos archivos CSV desde Kaggle: uno con información sobre usuarios de Instagram por país y otro con indicadores globales de libertad para tomar decisiones .
 
 Procesamiento de Datos
 
@@ -30,7 +30,7 @@ Procesamiento de Datos
   
   Descripción y visualización de las principales características de los datos.
   
-  Identificación de patrones preliminares entre usuarios de Instagram, felicidad y libertad.
+  Identificación de patrones preliminares entre usuarios de Instagram y la libertad para tomar decisiones .
   
   Análisis Comparativo y Correlacional
   
@@ -43,7 +43,7 @@ Procesamiento de Datos
 
 Resultados Esperados
 
-  Identificar si existe una correlación significativa entre la cantidad de usuarios de Instagram y los índices de felicidad en los países analizados.
+  Identificar si existe una correlación significativa entre la cantidad de usuarios de Instagram y los índices de la libertad para tomar decisiones  en los países analizados.
   Visualizar las diferencias entre los países seleccionados (Francia, España e Italia) en términos de uso de Instagram y bienestar.
   Explorar la relación entre la libertad para tomar decisiones y el uso de Instagram a nivel global.
 
